@@ -6,7 +6,7 @@
   <link href="https://www.johnyzone.com/atom.xml" rel="self"/>
   
   <link href="https://www.johnyzone.com/"/>
-  <updated>2021-05-12T06:35:58.000Z</updated>
+  <updated>2021-05-13T08:54:26.000Z</updated>
   <id>https://www.johnyzone.com/</id>
   
   <author>
@@ -17,22 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>php8都有哪些新特性呢</title>
+    <link href="https://www.johnyzone.com/2021/05/13/php8/"/>
+    <id>https://www.johnyzone.com/2021/05/13/php8/</id>
+    <published>2021-05-13T08:43:07.000Z</published>
+    <updated>2021-05-13T08:54:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="新特性"><a href="#新特性" class="headerlink" title="新特性"></a>新特性</h3><ul><li>联合类型</li><li>JIT</li><li>属性</li><li>新增static返回类型</li><li>新增mixed类型</li><li>Throw 表达式</li><li>允许对对象使用 ::class </li><li>参数列表中的尾部逗号</li><li>从接口创建DateTime对象</li><li>新增Stringable接口</li><li>新增str_contains()，str_starts_with()，str_ends_with()，fdiv()，get_debug_type()函数</li><li>新增get_resource_id()</li><li>Traits改进中的抽象方法</li><li>串联优先级</li><li>更严格的算术和位运算类型检查</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;新特性&quot;&gt;&lt;a href=&quot;#新特性&quot; class=&quot;headerlink&quot; title=&quot;新特性&quot;&gt;&lt;/a&gt;新特性&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;联合类型&lt;/li&gt;
+&lt;li&gt;JIT&lt;/li&gt;
+&lt;li&gt;属性&lt;/li&gt;
+&lt;li&gt;新增static返回类型&lt;/li&gt;
+&lt;li</summary>
+      
+    
+    
+    
+    <category term="php技术" scheme="https://www.johnyzone.com/categories/php%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="php8" scheme="https://www.johnyzone.com/tags/php8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年5月12日新版个人博客正式起航</title>
     <link href="https://www.johnyzone.com/2021/05/12/hello-world/"/>
     <id>https://www.johnyzone.com/2021/05/12/hello-world/</id>
     <published>2021-05-12T06:35:58.000Z</published>
-    <updated>2021-05-12T06:35:58.000Z</updated>
+    <updated>2021-05-13T08:16:47.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我的博客从2012年大学 🎓 毕业后开始第一个版本，当时采用了PHP+MySQL+HTML+JavaScript技术，历经5年时间，直到2018年间忘记了续费，导致云服务商自动释放了资源，所有的博文数据及资料全部丢失，PS：定期备份很重要，直到现在才正式开始策划搭建，经历2天的折腾，终于把新的博客给搭起来了，全新上线。<br>本博客主要用于记录本人在工作中、生活上的趣事及干货。俗话说，好记性不如烂笔头，避免重复走之前走过的坑。当然上线这个博客也是相当于开通了与各大网友的交流窗口，欢迎大家一起来进行各种学习与交流。<br>最后，恭喜自己新博客上线，致敬陪伴我多年的第一版博客。</p><p>​       </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;我的博客从2012年大学 🎓 毕业后开始第一个版本，当时采用了PHP+MySQL+HTML+JavaScript技术，历经5年时间，直到2018年间忘记了续费，导致云服务商自动释放了资源，所有的博文数据及资料全部丢失，PS：定期备份很重要，直到现在才正式开始策划搭建，经历</summary>
       
     
     
     
+    <category term="生活" scheme="https://www.johnyzone.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="新版上线" scheme="https://www.johnyzone.com/tags/%E6%96%B0%E7%89%88%E4%B8%8A%E7%BA%BF/"/>
+    
+    <category term="吐槽" scheme="https://www.johnyzone.com/tags/%E5%90%90%E6%A7%BD/"/>
     
   </entry>
   
